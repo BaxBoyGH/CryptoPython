@@ -1,6 +1,6 @@
 {
   "name": "CryptoPython",
-  "version": "1.21",
+  "version": "1.1",
   "slug": "python",
   "url": "https://kjellhanken.de",
   "description": "Python für Consti",
@@ -9,6 +9,6 @@
   "boot": "auto",
   "options": {},
   "schema": {},
-  "map": ["config/custom_components"],
+  "map": ["/config/custom_components"],
   "init": false
 }
