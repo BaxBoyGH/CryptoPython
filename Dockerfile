@@ -11,4 +11,4 @@ COPY run.sh script.py /
 RUN chmod +x /run.sh
 
 CMD [ "/run.sh" ]
-CMD ["pip install pycoingecko"]
+
