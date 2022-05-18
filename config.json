@@ -9,6 +9,6 @@
   "boot": "auto",
   "options": {},
   "schema": {},
-  "map": ["addons"],
+  "map": ["media"],
   "init": false
 }

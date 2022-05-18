@@ -15,7 +15,7 @@ while True:
     unix = str(btc_data["bitcoin"]["last_updated_at"])
     price = str(btc_data["bitcoin"]["usd"])  
 
-    with open("addons/BTC_DATA.csv", "a")as btcfile:
+    with open("media/BTC_DATA.csv", "a")as btcfile:
         btcfile.write(unix)
         btcfile.write(",")
         btcfile.write(price)
